@@ -2,7 +2,7 @@
 echo "hello world this is version 2";
 echo "<P> PASSWORD IS " . getenv('DB_PASSWORD');
 
-class DBikes{
+class DBike{
     public $number;
     public $name;
 }
