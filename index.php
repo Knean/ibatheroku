@@ -7,7 +7,7 @@ class DBike{
     public $name;
 }
 
-$listOfBikes = []
+$listOfBikes = [];
 
 for ($i = 0; $i< 10; $i++){
     $bike = new DBike;
